@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade Heran\u00E7a\\Heran\u00E7a 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC09E075-6DA4-487B-9CDA-A8278DE3ED21}|Heran\u00E7a 3\\Heran\u00E7a 3.csproj|c:\\users\\senai2em\\desktop\\repositorio visual\\introdu\u00E7\u00E3o-c#\\atividade heran\u00E7a\\heran\u00E7a 3\\heran\u00E7a 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC09E075-6DA4-487B-9CDA-A8278DE3ED21}|Heran\u00E7a 3\\Heran\u00E7a 3.csproj|solutionrelative:heran\u00E7a 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC09E075-6DA4-487B-9CDA-A8278DE3ED21}|Heran\u00E7a 3\\Heran\u00E7a 3.csproj|c:\\users\\senai2em\\desktop\\repositorio visual\\introdu\u00E7\u00E3o-c#\\atividade heran\u00E7a\\heran\u00E7a 3\\heran\u00E7a 3\\contagenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC09E075-6DA4-487B-9CDA-A8278DE3ED21}|Heran\u00E7a 3\\Heran\u00E7a 3.csproj|solutionrelative:heran\u00E7a 3\\contagenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaGenerica.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade Heran\u00E7a\\Heran\u00E7a 3\\Heran\u00E7a 3\\ContaGenerica.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a 3\\ContaGenerica.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade Heran\u00E7a\\Heran\u00E7a 3\\Heran\u00E7a 3\\ContaGenerica.cs",
+              "RelativeToolTip": "Heran\u00E7a 3\\ContaGenerica.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:27:08.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade Heran\u00E7a\\Heran\u00E7a 3\\Heran\u00E7a 3\\Program.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a 3\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade Heran\u00E7a\\Heran\u00E7a 3\\Heran\u00E7a 3\\Program.cs",
+              "RelativeToolTip": "Heran\u00E7a 3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:25:48.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

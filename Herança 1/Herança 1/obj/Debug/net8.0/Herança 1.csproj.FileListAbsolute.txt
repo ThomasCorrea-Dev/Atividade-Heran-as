@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\obj\Debug\net8.0\Herança 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\obj\Debug\net8.0\Herança 1.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\obj\Debug\net8.0\Herança 1.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\obj\Debug\net8.0\Herança 1.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\bin\Debug\net8.0\Herança 1.exe
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\bin\Debug\net8.0\Herança 1.deps.json
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\bin\Debug\net8.0\Herança 1.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\bin\Debug\net8.0\Herança 1.dll
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\bin\Debug\net8.0\Herança 1.pdb
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\obj\Debug\net8.0\Herança 1.dll
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\obj\Debug\net8.0\refint\Herança 1.dll
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\obj\Debug\net8.0\Herança 1.pdb
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\obj\Debug\net8.0\Herança 1.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\Repositorio visual\Introdução-C#\Atividade Herança\Herança 1\Herança 1\obj\Debug\net8.0\ref\Herança 1.dll

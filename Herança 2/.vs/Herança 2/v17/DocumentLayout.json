@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade Heran\u00E7a\\Heran\u00E7a 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41075AC1-816A-48DE-896E-052C8AB58FA0}|Heran\u00E7a 2\\Heran\u00E7a 2.csproj|c:\\users\\senai2em\\desktop\\repositorio visual\\introdu\u00E7\u00E3o-c#\\atividade heran\u00E7a\\heran\u00E7a 2\\heran\u00E7a 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41075AC1-816A-48DE-896E-052C8AB58FA0}|Heran\u00E7a 2\\Heran\u00E7a 2.csproj|solutionrelative:heran\u00E7a 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41075AC1-816A-48DE-896E-052C8AB58FA0}|Heran\u00E7a 2\\Heran\u00E7a 2.csproj|c:\\users\\senai2em\\desktop\\repositorio visual\\introdu\u00E7\u00E3o-c#\\atividade heran\u00E7a\\heran\u00E7a 2\\heran\u00E7a 2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41075AC1-816A-48DE-896E-052C8AB58FA0}|Heran\u00E7a 2\\Heran\u00E7a 2.csproj|solutionrelative:heran\u00E7a 2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade Heran\u00E7a\\Heran\u00E7a 2\\Heran\u00E7a 2\\Animal.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a 2\\Animal.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade Heran\u00E7a\\Heran\u00E7a 2\\Heran\u00E7a 2\\Animal.cs",
+              "RelativeToolTip": "Heran\u00E7a 2\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:50:09.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade Heran\u00E7a\\Heran\u00E7a 2\\Heran\u00E7a 2\\Program.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7a 2\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\Atividade Heran\u00E7a\\Heran\u00E7a 2\\Heran\u00E7a 2\\Program.cs",
+              "RelativeToolTip": "Heran\u00E7a 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:49:38.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
